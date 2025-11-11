@@ -18,7 +18,6 @@ dependencies = [
     "diffusers==0.29.0",
     "conformer==0.3.2",
     "safetensors==0.5.3",
-    "spacy>=3.8.0",
     "spacy-pkuseg",
     "pykakasi==2.3.0",
     "russian-text-stresser @ git+https://github.com/Vuizur/add-stress-to-epub",
